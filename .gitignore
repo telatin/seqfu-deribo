@@ -1,0 +1,9 @@
+bin/
+*.idx
+nimcache/
+*.o
+pe-out
+pe-reads/
+sortmerna
+sortmerna-4.3.4
+testset/
